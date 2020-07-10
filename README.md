@@ -12,4 +12,4 @@ This repository contains a simple Java application used for the demonstration of
 2. [GitHub](https://github.com/vycao412)
 3. [Email](caongocnhatvy2000@gmail.com)
 
-#### © 2020 by Vy
+#### © 2020 by Vy | FPT University HCMC
