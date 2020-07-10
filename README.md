@@ -10,5 +10,6 @@ This repository contains a simple Java application used for the demonstration of
 ## Connect me via
 1. [Facebook](https://www.facebook.com/profile.php?id=100010366447002)
 2. [GitHub](https://github.com/vycao412)
+3. [Email](caongocnhatvy2000@gmail.com)
 
 #### © 2020 by Vy
