@@ -30,6 +30,7 @@ public class UnitTestTest {
     @Test(expected = IllegalArgumentException.class)
     public void testFailedCases() {
         computeFactorial(-5);
+        computeFactorial(20);
         //hàm này dùng để test các tình huống cà chớn đến từ người dùng
         //ví dụ người dùng muốn tính -5! thì tính thế mẹ nào được
         //khi đó trong thiết kế của hàm cF() ta phải dự liệu tình huống cà chớn này
